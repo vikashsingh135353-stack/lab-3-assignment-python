@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "isbn": "1001",
+    "status": "available"
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "isbn": "1002",
+    "status": "available"
+  },
+  {
+    "title": "Automate the Boring Stuff with Python",
+    "author": "Al Sweigart",
+    "isbn": "1003",
+    "status": "issued"
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "isbn": "1004",
+    "status": "available"
+  },
+  {
+    "title": "Learning Python",
+    "author": "Mark Lutz",
+    "isbn": "1005",
+    "status": "available"
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "isbn": "1006",
+    "status": "issued"
+  },
+  {
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "isbn": "1007",
+    "status": "available"
+  },
+  {
+    "title": "Introduction to Algorithms",
+    "author": "CLRS",
+    "isbn": "1008",
+    "status": "available"
+  },
+  {
+    "title": "Data Structures in Python",
+    "author": "John Garnett",
+    "isbn": "1009",
+    "status": "available"
+  },
+  {
+    "title": "Operating Systems Concepts",
+    "author": "Silberschatz",
+    "isbn": "1010",
+    "status": "issued"
+  }
+]
